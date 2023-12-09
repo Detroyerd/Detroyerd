@@ -13,8 +13,9 @@
 ## Contact me
 
 <p align="center">
-    <a href="https://github.com/Detroyerd"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-    <a href="https://instagram.com/luisferminath?igshid=YTQwZjQ0NmI0OA%3D%3D&utm_source=qr"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+  <a href="https://github.com/Detroyerd"><img alt="GitHub" width="10%" style="padding: 5px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/></a>
+<a href="https://instagram.com/luisferminath?igshid=YTQwZjQ0NmI0OA%3D%3D&utm_source=qr"><img alt="Instagram" width="10%" style="padding: 5px" src="https://www.instagram.com/static/images/branding/glyph-instagram.png"/></a>
+
 </p>
 
 ## Learning these languages
