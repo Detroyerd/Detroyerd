@@ -14,9 +14,6 @@
 
 <p align="center">
   <a href="https://github.com/Detroyerd"><img alt="GitHub" width="10%" style="padding: 5px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/></a>
-<a href="https://github.com/Detroyerd">
-  <img alt="GitHub" width="10%" style="padding: 5px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/>
-</a>
 
 <a href="https://instagram.com/luisferminath?igshid=YTQwZjQ0NmI0OA%3D%3D&utm_source=qr">
   <img alt="Instagram" width="10%" style="padding: 5px" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2013/240/iconmonstr-instagram-1.png&r=255&g=255&b=255"/>
