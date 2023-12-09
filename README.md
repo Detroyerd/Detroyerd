@@ -1,7 +1,7 @@
 # Hi, I'm Luis Fermin
 
 <p align="center">
-    <img width="15%" src="https://img.icons8.com/ios-filled/96/ffffff/programming.png"/>
+    <img width="10%" src="https://img.icons8.com/ios-filled/96/ffffff/programming.png"/>
 </p>
 
 - I'm a **Learner** | **Programmer** 
