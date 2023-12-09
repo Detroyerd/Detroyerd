@@ -15,9 +15,8 @@
 <p align="center">
   <a href="https://github.com/Detroyerd"><img alt="GitHub" width="10%" style="padding: 5px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/></a>
 <a href="https://instagram.com/luisferminath?igshid=YTQwZjQ0NmI0OA%3D%3D&utm_source=qr">
-  <i class="fab fa-instagram" style="font-size: 10%; padding: 5px;"></i>
+  <img alt="Instagram" width="10%" style="padding: 5px" src="URL_DEL_LOGO_DE_INSTAGRAM"/>
 </a>
-
 </p>
 
 ## Learning these languages
