@@ -10,14 +10,14 @@
     <img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/>
 </p>
 
-## Feel Free to Contact me
+## Contact me
 
 <p align="center">
     <a href="https://github.com/Detroyerd"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
     <a href="https://instagram.com/luisferminath?igshid=YTQwZjQ0NmI0OA%3D%3D&utm_source=qr"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 </p>
 
-## Programming Languages
+## Learning these languages.
 
 <p align="center">
     <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
