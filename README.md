@@ -1,7 +1,7 @@
 # Hi, I'm Luis Fermin
 
 <p align="center">
-    <img width="20%" src="https://img.icons8.com/ios-filled/96/ffffff/programming.png"/>
+    <img width="15%" src="https://img.icons8.com/ios-filled/96/ffffff/programming.png"/>
 </p>
 
 - I'm a **Learner** | **Programmer** 
@@ -17,7 +17,7 @@
     <a href="https://instagram.com/luisferminath?igshid=YTQwZjQ0NmI0OA%3D%3D&utm_source=qr"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 </p>
 
-## Learning these languages.
+## Learning these languages
 
 <p align="center">
     <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
