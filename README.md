@@ -1,15 +1,10 @@
-# Hi there, I'm Akash Patel 
+# Hi, I'm Luis Fermin
 
 <p align="center">
     <img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
 </p>
 
 - I'm a **Learner** | **Programmer** 
-- About me: **2x Kaggle Master** | **ML & DS Enthusiast**
-- Currently **Working as an Executive Data Scientist at NielsenIQ India**
-- Willing to contribute more and more in **Data Science and Machine Learning Related Projects**
-
-## GitHub Stats
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/>
