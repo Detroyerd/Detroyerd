@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/Detroyerd"><img alt="GitHub" width="10%" style="padding: 5px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/></a>
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-pink?logo=instagram)](https://instagram.com/luisferminath?igshid=YTQwZjQ0NmI0OA%3D%3D&utm_source=qr)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-white?logo=instagram)](https://instagram.com/luisferminath?igshid=YTQwZjQ0NmI0OA%3D%3D&utm_source=qr)
 
 ## Learning these languages
 
