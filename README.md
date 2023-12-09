@@ -1,5 +1,9 @@
 
-## Hi there, I'm Akash Patel 
+
+
+<table>
+
+ ## Hi there, I'm Akash Patel 
 
 <p align="center">
 <img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
@@ -20,8 +24,6 @@
 	<a href="https://www.facebook.com/imakash3011/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
 	<a href="https://www.instagram.com/imakash3011/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 </p>
-
-<table>
     <tr>
    </td>
     </tr>
